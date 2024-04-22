@@ -1,3 +1,15 @@
+<!-- 
+
+language: de
+
+narrator: Deutsch Female
+
+author: Juliane Röder
+
+version: 0.1
+
+-->
+
 # Workshop Traingsdatensätze und FDM-Trainingsmaterial
 
 Zur Darstellung als Präsentation bitte [hier entlang](https://liascript.github.io/course/?https://raw.githubusercontent.com/JulianeRoeder/ahc2024-trainingsdatenworskshop/edit/main/README.md).
