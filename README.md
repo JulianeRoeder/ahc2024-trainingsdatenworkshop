@@ -208,3 +208,11 @@ Diese Folien findet ihr [hier](https://github.com/JulianeRoeder/ahc2024-training
 ![](https://upload.wikimedia.org/wikipedia/commons/7/7c/Centaurea_sp_und_Bombus_sp.JPG)
 
 Ihr möchtet wissen was wir im Bereich Training & Education bereits anbieten? Dann bitte [hier](https://nfdi4biodiversity.org/de/training/) entlang.
+
+## Appendix
+
+Eine (unvollständige) Liste mit Trainingsdatensätzen von NFDI4Biodiversity und anderen.
+
+|    |   |    |
+|:--|:--|:--|        
+|    |   |    |
