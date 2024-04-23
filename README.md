@@ -139,8 +139,6 @@ Bitte bereitet pro Datensatz **vier** Karten vor, um den Datensatz in vier Kateg
 
 ## PAUSE
 
-![www.Pixel.la Free Stock Photos, CC0, via Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/3/3a/Garden-flower-pollen-insect_%2823698527624%29.jpg "Zeit für Erfrischungen!")
-
 
 ![JMski, CC0, via Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/a/a4/Oxford_Botanic_Garden%2C_Flowers.jpg "Zeit zum Durchatmen!")
 
@@ -153,42 +151,64 @@ Bitte bereitet pro Datensatz **vier** Karten vor, um den Datensatz in vier Kateg
 > Wenn ja - welche Daten nutzt ihr und wie?
 
 <!-- style="font-size:24px" -->
-![RDMkit Data Life Cycle](https://rdmkit.elixir-europe.org/images/data_life_cycle_9.svg "Datenlebenszyklus [RDMkit](https://rdmkit.elixir-europe.org)")
+![RDMkit Data Life Cycle](https://rdmkit.elixir-europe.org/images/data_life_cycle_9.svg "Datenlebenszyklus [RDMkit](https://rdmkit.elixir-europe.org)") <!-- style="width:50cm" -->
 Bitte ordnet die verwendeten Datensätze den Stationen im Datenlebenszyklus zu.
 
 ## Wünsche & Vorschläge (15 min)
 
-Welche FDM-Lerninhalte fehlen noch? Welche Inhalte würdet ihr gerne mit Trainingsdatensätzen vermitteln?
+<!-- style="font-size:24px" -->
+> Welche FDM-Lerninhalte fehlen noch? 
+> 
+> Welche Inhalte würdet ihr gerne mit Trainingsdatensätzen vermitteln?
 
+<!-- style="font-size:24px" -->
+![RDMkit Data Life Cycle](https://rdmkit.elixir-europe.org/images/data_life_cycle_9.svg "Datenlebenszyklus [RDMkit](https://rdmkit.elixir-europe.org)")<!-- style="width:50cm" -->
 Bitte ergänzt den Datenlebenszyklus mit euren Wünschen und Vorschlägen.
-
-![RDMkit Data Life Cycle](https://rdmkit.elixir-europe.org/images/data_life_cycle_9.svg "Datenlebenszyklus [RDMkit](https://rdmkit.elixir-europe.org)")
 
 ## Abschluss
 
 ### Unsere wichtigsten Ergebnisse
 
+        {{1}}
+<!-- style="font-size:24px" -->
+* Vorhandene Datensätze
+
+        {{2}}
+<!-- style="font-size:24px" -->
+* Eigenschaften eines guten Trainingsdatensatzes
+
+        {{3}}
+<!-- style="font-size:24px" -->
+* Zuordnung vorhandener Trainingsdatensätze zur Stationen im Datenlebenszyklus
 
 ### Ausschreibung Trainings Funds
 
+<!-- style="font-size:24px" -->
 Wir haben dieses Jahr Gelder zur Verfügung um euch bei der Aufbereitung eurer Trainingsdatensätze und eurer Open Educational Ressources zu unterstützen.
 
-Hier findet ihr alle weiteren Informationen: 
-
+<!-- style="font-size:24px" -->
 [qr-code](https://www.nfdi4biodiversity.org/de/news/nfdi4biodiversity-trainingsfunds-forderung-fur-die-entwicklung-von-lehrmaterialien-und-formaten/)
+Hier findet ihr alle weiteren Informationen.
 
 
 ### Dokumentation des Workshops
 
-Wir werden die Ergebnisse dieses Workshops verschriftlichen und euch zur Kommentierung zukommen lassen. Wir möchten die Ergebnisse dann bei Zenodo veröffentlichen. Dfür benötigen wir von euch weitere Informationen zu den von euch vorgestellten Datensätzen.
+<!-- style="font-size:24px" -->
+Wir werden die Ergebnisse dieses Workshops verschriftlichen und euch zur Kommentierung zukommen lassen. Wir möchten die Ergebnisse dann bei Zenodo veröffentlichen. Dafür benötigen wir von euch weitere Informationen zu den von euch vorgestellten Datensätzen.
 
+<!-- style="font-size:24px" -->
 Diese Veröffentlichung soll 
 
-* als erste Sammlung von Trainingsdatensätzen dienen, die im Konsortium verfügbar sind. und 
+<!-- style="font-size:24px" -->
+* als erste Sammlung von im Konsortium vorhandenen Trainingsdatensätzen dienen und 
 
 * als Diskussionsgrundlage für die Aufbereitung weiterer Trainingsdatensätze dienen.
 
+<!-- style="font-size:20px" -->
+Diese Folien findet ihr [hier](https://github.com/JulianeRoeder/ahc2024-trainingsdatenworskshop)
 
 ## Vielen Dank!
 
 ![](https://upload.wikimedia.org/wikipedia/commons/7/7c/Centaurea_sp_und_Bombus_sp.JPG)
+
+Ihr möchtet wissen was wir im Bereich Training & Education bereits anbieten? Dann bitte [hier](https://nfdi4biodiversity.org/de/training/) entlang.
