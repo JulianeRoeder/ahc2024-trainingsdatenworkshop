@@ -175,7 +175,7 @@ Bitte ergänzt den Datenlebenszyklus mit euren Wünschen und Vorschlägen.
 
         {{3}}
 <!-- style="font-size:24px" -->
-* Zuordnung vorhandener Trainingsdatensätze zur Stationen im Datenlebenszyklus
+* Zuordnung vorhandener Trainingsdatensätze zu Stationen im Datenlebenszyklus
 
 ### Ausschreibung Trainings Funds
 
@@ -213,6 +213,10 @@ Ihr möchtet wissen was wir im Bereich Training & Education bereits anbieten? Da
 
 Eine (unvollständige) Liste mit Trainingsdatensätzen von NFDI4Biodiversity und anderen.
 
-|    |   |    |
-|:--|:--|:--|        
-|    |   |    |
+| aus NFDI4Biodiversity? |  Datenlebenszyklus   | Verwendungsbeispiele | Datenreferenz | Veröffentlichung |
+|:---|:---|:---|:---|:---|      
+| ja | Collect, Process, Analyse |  | Amatulli, G., Garcia Marquez, J.R., Sethi, T., Kiesel, J., Grigoropoulou, A., Üblacker, M., Shen, L., Domisch, S. (2022). Hydrography90m: A new high-resolution global hydrographic dataset. Earth System Science Data, 14, 4525–4550 | Schürz, M., Grigoropoulou, A., Garcia Marquez, J.R., Tomiczek, T., Floury, M., Schürz, C., Amatulli, G., Grossart, H.-P., Domisch, S. (2023). hydrographr: an R package for scalable hydrographic data processing. Methods in Ecology and Evolution, 10.1111/2041-210X.14226|
+| ja | Collect, Process, Analyse |  | https://sojwolf.github.io/Jupyter_Workshop_Winterschool_2022/intro.html | Wolf, S. and Mahecha, M. D. and Sabatini, F. M. and Wirth, C. and Bruelheide, H. and Kattge, J. and Moreno Martínez, Á. and Mora, K. and Kattenborn, T., Citizen science plant observations encode global trait patterns. Nat Ecol Evol (2022). https://doi.org/10.1038/s41559-022-01904-x|
+| nein | Analyse | Traitdaten, Alternative zu iris-Datensatz | Horst AM, Hill AP, Gorman KB (2020). palmerpenguins: Palmer Archipelago (Antarctica) penguin data. R package version 0.1.0. https://allisonhorst.github.io/palmerpenguins/. doi: 10.5281/zenodo.3960218 | Gorman KB, Williams TD, Fraser WR (2014). Ecological sexual dimorphism and environmental variability within a community of Antarctic penguins (genus Pygoscelis). PLoS ONE 9(3):e90081. https://doi.org/10.1371/journal.pone.0090081 |
+|  nein | Analyse | gemischte Modelle  |  Slotow R, Thaker M, Vanak AT. 2019. Data from: Fine-scale tracking of ambient temperature and movement reveals shuttling behavior of elephants to water. Movebank Data Repository. https://doi.org/10.5441/001/1.403h24q5  | |
+| nein | Analyse | gemischte Modelle | | Bigler C (2016) Trade-Offs between Growth Rate, Tree Size and Lifespan of Mountain Pine (Pinus montana) in the Swiss National Park. PLoS ONE 11(3): e0150402. https://doi.org/10.1371/journal.pone.0150402 |
