@@ -22,7 +22,7 @@ Zur Darstellung als Präsentation bitte [hier entlang](https://liascript.github.
 Programmpunkte:
 
 <!-- style="font-size:24px" -->
-* Aufwärmen - 10 min
+* Aufwärmen - *10 min*
 
 * Vorstellungsrunde - *15 min*
 
