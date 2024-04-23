@@ -18,6 +18,24 @@ Zur Darstellung als Präsentation bitte [hier entlang](https://liascript.github.
 
 ## Herzlich willkommen!
 
+<!-- style="font-size:30px" -->
+Programmpunkte:
+
+<!-- style="font-size:24px" -->
+* Aufwärmen - 10 min
+
+* Vorstellungsrunde - 15 min
+
+* Trainingsdatensätze - was ist da? - 25 min
+
+* Was macht einen guten Trainingsdatensatz aus? - 15 min
+
+* Pause - 5 min
+
+* Datensätze im FDM-Training - 35 min
+
+* Abschluss - 10 min
+
 ## Aufwärmen 1
 
 <!-- style="font-size:30px" -->
