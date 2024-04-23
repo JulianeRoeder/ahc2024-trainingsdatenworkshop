@@ -141,7 +141,7 @@ Bitte bereitet pro Datensatz **vier** Karten vor, um den Datensatz in vier Kateg
 ## FDM-Training mit Datensätzen (20 min)
 
 > <!-- style="font-size:24px" -->
-> Nutzt ihr Daten um FDM zu vermitteln?
+> Nutzt ihr Daten um Forschungsdatenmanagement (FDM) zu vermitteln?
 > 
 > <!-- style="font-size:24px" -->
 > Wenn ja - welche Daten nutzt ihr und wie?
@@ -167,15 +167,15 @@ Bitte ergänzt den Datenlebenszyklus mit euren Wünschen und Vorschlägen.
 
         {{1}}
 <!-- style="font-size:24px" -->
-* Vorhandene Datensätze
+*   Vorhandene Datensätze
 
         {{2}}
 <!-- style="font-size:24px" -->
-* Eigenschaften eines guten Trainingsdatensatzes
+*   Eigenschaften eines guten Trainingsdatensatzes
 
         {{3}}
 <!-- style="font-size:24px" -->
-* Zuordnung vorhandener Trainingsdatensätze zu Stationen im Datenlebenszyklus
+*   Zuordnung vorhandener Trainingsdatensätze zu Stationen im Datenlebenszyklus
 
 ### Ausschreibung Trainings Funds
 
