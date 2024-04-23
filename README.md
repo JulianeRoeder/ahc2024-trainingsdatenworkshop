@@ -8,6 +8,8 @@ author: Juliane Röder
 
 version: 0.1
 
+font-size: 24px
+
 -->
 
 # Workshop Traingsdatensätze und FDM-Trainingsmaterial
@@ -18,13 +20,13 @@ Zur Darstellung als Präsentation bitte [hier entlang](https://liascript.github.
 
 ## Aufwärmen 1
 
-<!-- style="font-size:20px" -->
+<!-- style="font-size:30px" -->
 ![Mohcyn, Public domain, via Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/b/b1/Land%27s_End_-_Cornwall%2C_UK.JPG "Wegweiser")
 Wie weit war eure Anreise? Sortiert euch entsprechend der zurückgelegten Distanz (Luftlinie zählt auch).
 
 ## Aufwärmen 2
 
-<!-- style="font-size:20px" -->
+<!-- style="font-size:30px" -->
 ![Nicolas Weghaupt, CC0, via Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/7/74/Bombus_lapidarius_foraging.jpg "*Bombus lapidarius* auf *Centaurea scabiosa*")
 Welche Apps oder Plattformen nutzt ihr **hauptsächlich** um eure Naturbeobachtungen zu dokumentieren?
 
@@ -32,17 +34,19 @@ Welche Apps oder Plattformen nutzt ihr **hauptsächlich** um eure Naturbeobachtu
 
 ### Status Trainingsdatensätze (25 min)
 
-Welche Daten möchtet ihr zur Verfügung stellen? (## Karten)
+> <!-- style="font-size:24px" -->
+> Welche Daten möchtet ihr zur Verfügung stellen? (## Karten)
+> 
+> <!-- style="font-size:24px" -->
+> Welche Daten nutzt ihr bereits? (## Karten)
+> 
+> <!-- style="font-size:24px" -->
+> Welche Daten möchtet ihr nutzen? (## Karten)
 
-Welche Daten nutzet ihr bereits? (## Karten)
-
-Welche Daten möchtet ihr nutzen? (## Karten)
-
----
-
-
+<!-- style="font-size:24px" -->
 Bitte bereitet pro Datensatz **vier** Karten vor, um den Datensatz in vier Kategorien von Eigenschaften einzuordnen:  
 
+<!-- style="font-size:24px" -->
 * Struktur
 
 * Inhalt
@@ -55,7 +59,7 @@ Bitte bereitet pro Datensatz **vier** Karten vor, um den Datensatz in vier Kateg
 #### **Datentypen**
 
         {{1}}
-<div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
+<div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0; font-size:20px">
     <div style="display: inline-block;">
         <h4>Struktur</h4>
         <ul>
@@ -74,7 +78,7 @@ Bitte bereitet pro Datensatz **vier** Karten vor, um den Datensatz in vier Kateg
 </div>
 
         {{2}}
-<div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
+<div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;font-size:20px">
     <div style="display: inline-block;">
         <h4>Herkunft</h4>
     <ul>
@@ -105,16 +109,20 @@ Bitte bereitet pro Datensatz **vier** Karten vor, um den Datensatz in vier Kateg
 
 ### Was ist eigentlich ein "Goldstandardtrainingsdatensatz"? (15 min)
 
-Was macht einen Datensatz zu einem Trainingsdatensatz?
-
-Und was macht einen Trainingsdatensatz zu einem hervorragenden Trainingsdatensatz?
-
-Welche Eigenschaften sollte ein Trainingsdatensatz idealerweise haben?
+> <!-- style="font-size:24px" -->
+> Was macht einen Datensatz zu einem Trainingsdatensatz?
+> 
+> <!-- style="font-size:24px" -->
+> Und was macht einen Trainingsdatensatz zu einem hervorragenden Trainingsdatensatz?
+> 
+> <!-- style="font-size:24px" -->
+> Welche Eigenschaften sollte ein Trainingsdatensatz idealerweise haben?
 
         {{1}}
 
 <div>
 
+<!-- style="font-size:20px" -->
 * rechtlich
 
 * strukturell
@@ -138,13 +146,15 @@ Welche Eigenschaften sollte ein Trainingsdatensatz idealerweise haben?
 
 ## FDM-Training mit Datensätzen (20 min)
 
-Nutzt ihr Daten um FDM zu vermitteln?
+> <!-- style="font-size:24px" -->
+> Nutzt ihr Daten um FDM zu vermitteln?
+> 
+> <!-- style="font-size:24px" -->
+> Wenn ja - welche Daten nutzt ihr und wie?
 
-Wenn ja - welche Daten nutzt ihr und wie?
-
-Bitte ordnet die verwendeten Datensätze den Stationen im Datenlebenszyklus zu.
-
+<!-- style="font-size:24px" -->
 ![RDMkit Data Life Cycle](https://rdmkit.elixir-europe.org/images/data_life_cycle_9.svg "Datenlebenszyklus [RDMkit](https://rdmkit.elixir-europe.org)")
+Bitte ordnet die verwendeten Datensätze den Stationen im Datenlebenszyklus zu.
 
 ## Wünsche & Vorschläge (15 min)
 
