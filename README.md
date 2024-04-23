@@ -35,13 +35,13 @@ Welche Apps oder Plattformen nutzt ihr **hauptsächlich** um eure Naturbeobachtu
 ### Status Trainingsdatensätze (25 min)
 
 > <!-- style="font-size:24px" -->
-> Welche Daten möchtet ihr zur Verfügung stellen? (* Karten)
+> Welche Daten möchtet ihr zur Verfügung stellen? (Karten mit Stern *)
 > 
 > <!-- style="font-size:24px" -->
-> Welche Daten nutzt ihr bereits? (Δ Karten)
+> Welche Daten nutzt ihr bereits? (Karten mit Dreieck Δ)
 > 
 > <!-- style="font-size:24px" -->
-> Welche Daten möchtet ihr nutzen? (Ο Karten)
+> Welche Daten möchtet ihr nutzen? (Karten mit Kreis Ο)
 
 <!-- style="font-size:24px" -->
 Bitte bereitet pro Datensatz **vier** Karten vor, um den Datensatz in vier Kategorien von Eigenschaften einzuordnen:  
