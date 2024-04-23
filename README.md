@@ -32,7 +32,7 @@ Programmpunkte:
 
 * Pause - 5 min
 
-* Datensätze im FDM-Training - 35 min
+* Datensätze im FDM-Training - 40 min
 
 * Abschluss - 10 min
 
