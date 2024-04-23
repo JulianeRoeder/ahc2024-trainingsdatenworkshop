@@ -12,7 +12,7 @@ font-size: 24px
 
 -->
 
-# Workshop Traingsdatensätze und FDM-Trainingsmaterial
+# Workshop Trainingsdatensätze und FDM-Trainingsmaterial
 
 Zur Darstellung als Präsentation bitte [hier entlang](https://liascript.github.io/course/?https://raw.githubusercontent.com/JulianeRoeder/ahc2024-trainingsdatenworskshop/main/README.md#1).
 
@@ -35,13 +35,13 @@ Welche Apps oder Plattformen nutzt ihr **hauptsächlich** um eure Naturbeobachtu
 ### Status Trainingsdatensätze (25 min)
 
 > <!-- style="font-size:24px" -->
-> Welche Daten möchtet ihr zur Verfügung stellen? (## Karten)
+> Welche Daten möchtet ihr zur Verfügung stellen? (* Karten)
 > 
 > <!-- style="font-size:24px" -->
-> Welche Daten nutzt ihr bereits? (## Karten)
+> Welche Daten nutzt ihr bereits? (Δ Karten)
 > 
 > <!-- style="font-size:24px" -->
-> Welche Daten möchtet ihr nutzen? (## Karten)
+> Welche Daten möchtet ihr nutzen? (Ο Karten)
 
 <!-- style="font-size:24px" -->
 Bitte bereitet pro Datensatz **vier** Karten vor, um den Datensatz in vier Kategorien von Eigenschaften einzuordnen:  
@@ -95,11 +95,7 @@ Bitte bereitet pro Datensatz **vier** Karten vor, um den Datensatz in vier Kateg
             <li>unveröffentlichte Rohdaten</li>
             <li>veröffentlichte Daten, Dokumentation noch auszubauen</li>
             <li>veröffentlichte Daten, veröffentlichter Code - Dokumentation geringfügig anzupassen</li>
-            <li>veröffentlichte Daten mit Tutorial, z.B.
-                <ul>
-                    <li>Jupyter Notebook - Einführung in Jupyter und Python anhand von PlantHub/TRY-Daten</li>
-                    <li>Git Pages - Dokumentation R package hydrographR mit mehreren Beispieldatensätzen</li>
-                </ul>
+            <li>veröffentlichte Daten mit Tutorial, z.B. Jupyter Notebook, GitPages, etc.
             </li>
         </ul>
 
