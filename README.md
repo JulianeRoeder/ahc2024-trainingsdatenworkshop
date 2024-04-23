@@ -147,7 +147,7 @@ Bitte bereitet pro Datensatz **vier** Karten vor, um den Datensatz in vier Kateg
 > Wenn ja - welche Daten nutzt ihr und wie?
 
 <!-- style="font-size:24px" -->
-![RDMkit Data Life Cycle](https://rdmkit.elixir-europe.org/images/data_life_cycle_9.svg "Datenlebenszyklus [RDMkit](https://rdmkit.elixir-europe.org)") <!-- style="width:40%" -->
+![RDMkit Data Life Cycle](https://rdmkit.elixir-europe.org/images/data_life_cycle_9.svg "Datenlebenszyklus [RDMkit](https://rdmkit.elixir-europe.org)") 
 Bitte ordnet die verwendeten Datensätze den Stationen im Datenlebenszyklus zu.
 
 ## Wünsche & Vorschläge (15 min)
@@ -158,7 +158,7 @@ Bitte ordnet die verwendeten Datensätze den Stationen im Datenlebenszyklus zu.
 > Welche Inhalte würdet ihr gerne mit Trainingsdatensätzen vermitteln?
 
 <!-- style="font-size:24px" -->
-![RDMkit Data Life Cycle](https://rdmkit.elixir-europe.org/images/data_life_cycle_9.svg "Datenlebenszyklus [RDMkit](https://rdmkit.elixir-europe.org)")<!-- style="width:20cm" -->
+![RDMkit Data Life Cycle](https://rdmkit.elixir-europe.org/images/data_life_cycle_9.svg "Datenlebenszyklus [RDMkit](https://rdmkit.elixir-europe.org)")
 Bitte ergänzt den Datenlebenszyklus mit euren Wünschen und Vorschlägen.
 
 ## Abschluss
